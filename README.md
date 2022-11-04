@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @powertype
-- 👀 I’m interested in typedesign
-- 🌱 I’m currently learning typography
-- 💞️ I’m looking to collaborate on ui
-- 📫 hit me on email info@power-type.com
+I’m interested in typedesign
+I’m looking to collaborate on ui
+hit me on email info@power-type.com
